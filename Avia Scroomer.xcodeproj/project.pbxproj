@@ -11,6 +11,22 @@
 		EE4E2B702BED6EE800C4AA77 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4E2B6F2BED6EE800C4AA77 /* ContentView.swift */; };
 		EE4E2B722BED6EEB00C4AA77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE4E2B712BED6EEB00C4AA77 /* Assets.xcassets */; };
 		EE4E2B752BED6EEB00C4AA77 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE4E2B742BED6EEB00C4AA77 /* Preview Assets.xcassets */; };
+		EE4E2B7E2BEE13F600C4AA77 /* ScroomerGameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4E2B7D2BEE13F600C4AA77 /* ScroomerGameScene.swift */; };
+		EE4E2B822BEE250E00C4AA77 /* Rubik-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EE4E2B812BEE250E00C4AA77 /* Rubik-Regular.ttf */; };
+		EE4E2B842BEE251700C4AA77 /* Rubik-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EE4E2B832BEE251600C4AA77 /* Rubik-Bold.ttf */; };
+		EE4E2B892BEE2ECD00C4AA77 /* Fire.sks in Resources */ = {isa = PBXBuildFile; fileRef = EE4E2B872BEE2ECD00C4AA77 /* Fire.sks */; };
+		EE4E2B8A2BEE2ECD00C4AA77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE4E2B882BEE2ECD00C4AA77 /* Assets.xcassets */; };
+		EE4E2B8D2BEE2F3000C4AA77 /* claim_coin.wav in Resources */ = {isa = PBXBuildFile; fileRef = EE4E2B8C2BEE2F3000C4AA77 /* claim_coin.wav */; };
+		EE4E2B8F2BEE2F6500C4AA77 /* explosion.wav in Resources */ = {isa = PBXBuildFile; fileRef = EE4E2B8E2BEE2F6500C4AA77 /* explosion.wav */; };
+		EE4E2B912BEE344A00C4AA77 /* ScroomerAviaGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4E2B902BEE344A00C4AA77 /* ScroomerAviaGameView.swift */; };
+		EE4E2B932BEE5E7B00C4AA77 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4E2B922BEE5E7B00C4AA77 /* UserData.swift */; };
+		EE4E2B962BEE5F4400C4AA77 /* GameMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4E2B952BEE5F4400C4AA77 /* GameMenu.swift */; };
+		EE4E2B992BEE62AE00C4AA77 /* DailyRewardsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4E2B982BEE62AE00C4AA77 /* DailyRewardsView.swift */; };
+		EE4E2B9B2BEE642400C4AA77 /* DailyRewards.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4E2B9A2BEE642400C4AA77 /* DailyRewards.swift */; };
+		EE4E2B9E2BEE6AFF00C4AA77 /* GameRulesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4E2B9D2BEE6AFF00C4AA77 /* GameRulesView.swift */; };
+		EE4E2BA12BEE6D3000C4AA77 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4E2BA02BEE6D3000C4AA77 /* SettingsView.swift */; };
+		EE4E2BA42BEE703C00C4AA77 /* ScroomerStoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4E2BA32BEE703B00C4AA77 /* ScroomerStoreView.swift */; };
+		EE4E2BA62BEE735100C4AA77 /* Store.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4E2BA52BEE735100C4AA77 /* Store.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +35,23 @@
 		EE4E2B6F2BED6EE800C4AA77 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EE4E2B712BED6EEB00C4AA77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE4E2B742BED6EEB00C4AA77 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EE4E2B7D2BEE13F600C4AA77 /* ScroomerGameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScroomerGameScene.swift; sourceTree = "<group>"; };
+		EE4E2B812BEE250E00C4AA77 /* Rubik-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubik-Regular.ttf"; sourceTree = "<group>"; };
+		EE4E2B832BEE251600C4AA77 /* Rubik-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rubik-Bold.ttf"; sourceTree = "<group>"; };
+		EE4E2B852BEE252100C4AA77 /* Avia-Scroomer-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Avia-Scroomer-Info.plist"; sourceTree = SOURCE_ROOT; };
+		EE4E2B872BEE2ECD00C4AA77 /* Fire.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Fire.sks; sourceTree = "<group>"; };
+		EE4E2B882BEE2ECD00C4AA77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EE4E2B8C2BEE2F3000C4AA77 /* claim_coin.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = claim_coin.wav; sourceTree = "<group>"; };
+		EE4E2B8E2BEE2F6500C4AA77 /* explosion.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = explosion.wav; sourceTree = "<group>"; };
+		EE4E2B902BEE344A00C4AA77 /* ScroomerAviaGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScroomerAviaGameView.swift; sourceTree = "<group>"; };
+		EE4E2B922BEE5E7B00C4AA77 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		EE4E2B952BEE5F4400C4AA77 /* GameMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameMenu.swift; sourceTree = "<group>"; };
+		EE4E2B982BEE62AE00C4AA77 /* DailyRewardsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyRewardsView.swift; sourceTree = "<group>"; };
+		EE4E2B9A2BEE642400C4AA77 /* DailyRewards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyRewards.swift; sourceTree = "<group>"; };
+		EE4E2B9D2BEE6AFF00C4AA77 /* GameRulesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameRulesView.swift; sourceTree = "<group>"; };
+		EE4E2BA02BEE6D3000C4AA77 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		EE4E2BA32BEE703B00C4AA77 /* ScroomerStoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScroomerStoreView.swift; sourceTree = "<group>"; };
+		EE4E2BA52BEE735100C4AA77 /* Store.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Store.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +84,22 @@
 		EE4E2B6C2BED6EE800C4AA77 /* Avia Scroomer */ = {
 			isa = PBXGroup;
 			children = (
+				EE4E2BA22BEE702D00C4AA77 /* Store */,
+				EE4E2B9F2BEE6D2600C4AA77 /* Settings */,
+				EE4E2B9C2BEE6AEB00C4AA77 /* Rules */,
+				EE4E2B972BEE628F00C4AA77 /* DailyRewards */,
+				EE4E2B942BEE5F3600C4AA77 /* GameMenu */,
+				EE4E2B8B2BEE2F2900C4AA77 /* Audio */,
+				EE4E2B862BEE2EBA00C4AA77 /* Particles */,
+				EE4E2B852BEE252100C4AA77 /* Avia-Scroomer-Info.plist */,
+				EE4E2B7B2BEE13DD00C4AA77 /* ScroomerGame */,
 				EE4E2B6D2BED6EE800C4AA77 /* Avia_ScroomerApp.swift */,
 				EE4E2B6F2BED6EE800C4AA77 /* ContentView.swift */,
 				EE4E2B712BED6EEB00C4AA77 /* Assets.xcassets */,
+				EE4E2B812BEE250E00C4AA77 /* Rubik-Regular.ttf */,
+				EE4E2B832BEE251600C4AA77 /* Rubik-Bold.ttf */,
 				EE4E2B732BED6EEB00C4AA77 /* Preview Content */,
+				EE4E2B922BEE5E7B00C4AA77 /* UserData.swift */,
 			);
 			path = "Avia Scroomer";
 			sourceTree = "<group>";
@@ -65,6 +110,83 @@
 				EE4E2B742BED6EEB00C4AA77 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EE4E2B7B2BEE13DD00C4AA77 /* ScroomerGame */ = {
+			isa = PBXGroup;
+			children = (
+				EE4E2B7C2BEE13E600C4AA77 /* Scene */,
+				EE4E2B902BEE344A00C4AA77 /* ScroomerAviaGameView.swift */,
+			);
+			path = ScroomerGame;
+			sourceTree = "<group>";
+		};
+		EE4E2B7C2BEE13E600C4AA77 /* Scene */ = {
+			isa = PBXGroup;
+			children = (
+				EE4E2B7D2BEE13F600C4AA77 /* ScroomerGameScene.swift */,
+			);
+			path = Scene;
+			sourceTree = "<group>";
+		};
+		EE4E2B862BEE2EBA00C4AA77 /* Particles */ = {
+			isa = PBXGroup;
+			children = (
+				EE4E2B872BEE2ECD00C4AA77 /* Fire.sks */,
+				EE4E2B882BEE2ECD00C4AA77 /* Assets.xcassets */,
+			);
+			path = Particles;
+			sourceTree = "<group>";
+		};
+		EE4E2B8B2BEE2F2900C4AA77 /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				EE4E2B8E2BEE2F6500C4AA77 /* explosion.wav */,
+				EE4E2B8C2BEE2F3000C4AA77 /* claim_coin.wav */,
+			);
+			path = Audio;
+			sourceTree = "<group>";
+		};
+		EE4E2B942BEE5F3600C4AA77 /* GameMenu */ = {
+			isa = PBXGroup;
+			children = (
+				EE4E2B952BEE5F4400C4AA77 /* GameMenu.swift */,
+			);
+			path = GameMenu;
+			sourceTree = "<group>";
+		};
+		EE4E2B972BEE628F00C4AA77 /* DailyRewards */ = {
+			isa = PBXGroup;
+			children = (
+				EE4E2B982BEE62AE00C4AA77 /* DailyRewardsView.swift */,
+				EE4E2B9A2BEE642400C4AA77 /* DailyRewards.swift */,
+			);
+			path = DailyRewards;
+			sourceTree = "<group>";
+		};
+		EE4E2B9C2BEE6AEB00C4AA77 /* Rules */ = {
+			isa = PBXGroup;
+			children = (
+				EE4E2B9D2BEE6AFF00C4AA77 /* GameRulesView.swift */,
+			);
+			path = Rules;
+			sourceTree = "<group>";
+		};
+		EE4E2B9F2BEE6D2600C4AA77 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				EE4E2BA02BEE6D3000C4AA77 /* SettingsView.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		EE4E2BA22BEE702D00C4AA77 /* Store */ = {
+			isa = PBXGroup;
+			children = (
+				EE4E2BA32BEE703B00C4AA77 /* ScroomerStoreView.swift */,
+				EE4E2BA52BEE735100C4AA77 /* Store.swift */,
+			);
+			path = Store;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +247,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE4E2B8D2BEE2F3000C4AA77 /* claim_coin.wav in Resources */,
 				EE4E2B752BED6EEB00C4AA77 /* Preview Assets.xcassets in Resources */,
+				EE4E2B842BEE251700C4AA77 /* Rubik-Bold.ttf in Resources */,
+				EE4E2B822BEE250E00C4AA77 /* Rubik-Regular.ttf in Resources */,
+				EE4E2B892BEE2ECD00C4AA77 /* Fire.sks in Resources */,
+				EE4E2B8F2BEE2F6500C4AA77 /* explosion.wav in Resources */,
+				EE4E2B8A2BEE2ECD00C4AA77 /* Assets.xcassets in Resources */,
 				EE4E2B722BED6EEB00C4AA77 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,7 +265,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE4E2B9B2BEE642400C4AA77 /* DailyRewards.swift in Sources */,
 				EE4E2B702BED6EE800C4AA77 /* ContentView.swift in Sources */,
+				EE4E2B912BEE344A00C4AA77 /* ScroomerAviaGameView.swift in Sources */,
+				EE4E2BA62BEE735100C4AA77 /* Store.swift in Sources */,
+				EE4E2B992BEE62AE00C4AA77 /* DailyRewardsView.swift in Sources */,
+				EE4E2BA42BEE703C00C4AA77 /* ScroomerStoreView.swift in Sources */,
+				EE4E2B9E2BEE6AFF00C4AA77 /* GameRulesView.swift in Sources */,
+				EE4E2BA12BEE6D3000C4AA77 /* SettingsView.swift in Sources */,
+				EE4E2B7E2BEE13F600C4AA77 /* ScroomerGameScene.swift in Sources */,
+				EE4E2B932BEE5E7B00C4AA77 /* UserData.swift in Sources */,
+				EE4E2B962BEE5F4400C4AA77 /* GameMenu.swift in Sources */,
 				EE4E2B6E2BED6EE800C4AA77 /* Avia_ScroomerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -275,11 +413,13 @@
 				DEVELOPMENT_TEAM = 4RSA42DBKQ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Avia-Scroomer-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -287,9 +427,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gamebig.Avia-Scroomer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -304,11 +447,13 @@
 				DEVELOPMENT_TEAM = 4RSA42DBKQ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Avia-Scroomer-Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -316,9 +461,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gamebig.Avia-Scroomer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
